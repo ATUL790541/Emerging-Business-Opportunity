@@ -33,4 +33,6 @@ Client will provide the following data for the project:
 
 # Data Preparation
    ● Provide the list of themes available across all data sources
+   ![Picture1](https://user-images.githubusercontent.com/75777816/226985157-336c22b2-0dee-4593-9801-4f16879e1269.png)
+
      

@@ -80,6 +80,23 @@ Client will provide the following data for the project:
   |![Screenshot (415)](https://user-images.githubusercontent.com/75777816/227757012-bf15b421-31c0-448f-a120-900bbd1f90f5.png)|![Screenshot (414)](https://user-images.githubusercontent.com/75777816/227757010-b88b39c5-acad-4d22-9973-178f7bc45105.png)|
 
 # Build Sales Model
+  ● Identify the right  model technique and select the suitable variables
+  
+  ![Screenshot (416)](https://user-images.githubusercontent.com/75777816/227760596-89017d75-c9c1-42a2-b5fe-aab10ec1e11d.png)
+  
+  ● Estimate the impact on sales due to social trends, search trends, own price and competitor effects
+  
+  ![Screenshot (417)](https://user-images.githubusercontent.com/75777816/227760597-b71bee18-b3e5-40a6-bc9b-34087ee438de.png)
+  
+# Identify Driver Of Sales
+  
+  ![Screenshot (418)](https://user-images.githubusercontent.com/75777816/227760761-8eb674eb-9359-4d2b-974f-02d807aebb6e.png)
+ 
+# Recommend levers for business growth
+ 
+  ![Screenshot (419)](https://user-images.githubusercontent.com/75777816/227760764-bd9956ef-a1ad-44e8-8433-adfba98c5967.png)
+
+
   
   
 

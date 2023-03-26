@@ -60,5 +60,26 @@ Client will provide the following data for the project:
    |![google](https://user-images.githubusercontent.com/75777816/227104853-dfbf4b60-9aba-4919-9847-ed607f3c1b29.png)|![prod](https://user-images.githubusercontent.com/75777816/227104858-66f67a57-d13a-42d6-9ff9-bdd30159bac5.png)|![sales](https://user-images.githubusercontent.com/75777816/227104861-83dc7529-7cca-47be-ad13-da56e8ae0cda.png)|
    |  Social_media_data |  Theme_list | Theme_product_list |
    |![socail](https://user-images.githubusercontent.com/75777816/227105349-b08d6614-f1fa-45d0-847f-4ffbd762cfae.png)|![Theme](https://user-images.githubusercontent.com/75777816/227105351-967492df-e169-487e-968b-1e7bfa969314.png)|![theme_pdct](https://user-images.githubusercontent.com/75777816/227105356-1723acc5-9600-411c-a1bc-e870b7a849e8.png)|
+   
+  ● Understand the overall market share of our client
 
-     
+  ![m1](https://user-images.githubusercontent.com/75777816/227755081-2db3fecb-32b2-4adb-bd45-3f2f85a2cd62.png)
+  ![m2](https://user-images.githubusercontent.com/75777816/227755085-793bd66c-f505-4430-ad7a-1c67ebfba81b.png)
+  
+  ● Find the potential competitors for our client in each theme
+  |  American Gumbo | Low Carb | Ethical Packaging | Ginger Bread |
+  |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+  |![american](https://user-images.githubusercontent.com/75777816/227755600-739e779f-7017-45e3-966c-44336d79255f.png)|![anony](https://user-images.githubusercontent.com/75777816/227755603-5f0c6161-fc4d-4dc1-9b8b-acee703aa522.png)|![ethical](https://user-images.githubusercontent.com/75777816/227756191-37335726-21a8-4426-9a86-c75822ceb0ad.png)|![ginger](https://user-images.githubusercontent.com/75777816/227756192-87216b38-d17b-48b1-8ac7-ea018a4b925f.png)|
+  
+  ● What are the themes which are emerging in social media, Google Search & Sales
+    ![emerge](https://user-images.githubusercontent.com/75777816/227756651-2175cc4a-3ab8-43ef-a687-bb7ede2b09e4.png)
+  
+  ● Hypothesis Validation and Latency Calculation
+  |  Hypothesis Validation | Latency Calculation | 
+  |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+  |![Screenshot (415)](https://user-images.githubusercontent.com/75777816/227757012-bf15b421-31c0-448f-a120-900bbd1f90f5.png)|![Screenshot (414)](https://user-images.githubusercontent.com/75777816/227757010-b88b39c5-acad-4d22-9973-178f7bc45105.png)|
+
+# Build Sales Model
+  
+  
+
